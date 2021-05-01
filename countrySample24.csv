@@ -1,0 +1,25 @@
+,Country Code,Short Name,Long Name,Special Notes,Region,Income Group
+30,BTN,Bhutan,Kingdom of Bhutan,April 2013 database update: Data were updated using the government of Bhutan macroeconomic framework.,South Asia,Lower middle income
+42,COL,Colombia,Republic of Colombia,,Latin America & Caribbean,Upper middle income
+45,CRI,Costa Rica,Republic of Costa Rica,,Latin America & Caribbean,Upper middle income
+61,ECU,Ecuador,Republic of Ecuador,National accounts have been revised from 1965 onward based on official government data; the new base year is 2007. The large upward changes are due to an improved calculation method for nominal GDP.,Latin America & Caribbean,Upper middle income
+71,FRA,France,French Republic,"A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate was adopted by the EU Council on January 1, 1999: 1 euro = 6.55957 French franc. Please note that historical data before 1999 are not actual euros and are not comparable or suitable for aggregation across countries.",Europe & Central Asia,High income: OECD
+77,GHA,Ghana,Republic of Ghana,"In 2010, the Ghana Statistical Service revised the base year for Ghana's national accounts series from 1993 to 2006. The new GDP data were about 60 percent higher than previously reported and incorporated improved data sources and methodology.",Sub-Saharan Africa,Lower middle income
+93,HRV,Croatia,Republic of Croatia,"April 2013 database update: Based on official government statistics, the base year for constant price series changed to 2005.",Europe & Central Asia,High income: nonOECD
+95,HUN,Hungary,Hungary,"April 2012 database update: Based on data from the Organisation for Economic Co-operation and Development, national accounts data were revised for 1991 onward.",Europe & Central Asia,Upper middle income
+115,KWT,Kuwait,State of Kuwait,Fiscal year end: June 30; reporting period for national accounts data: CY.,Middle East & North Africa,High income: nonOECD
+129,LSO,Lesotho,Kingdom of Lesotho,Fiscal year end: March 31; reporting period for national accounts data: CY.,Sub-Saharan Africa,Lower middle income
+132,LVA,Latvia,Republic of Latvia,Country joined euro area on 1 January 2014; data in the WDI database are reported in lats.,Europe & Central Asia,High income: nonOECD
+137,MDA,Moldova,Republic of Moldova,,Europe & Central Asia,Lower middle income
+145,MLI,Mali,Republic of Mali,,Sub-Saharan Africa,Low income
+154,MUS,Mauritius,Republic of Mauritius,,Sub-Saharan Africa,Upper middle income
+168,OED,OECD members,OECD members,"OECD members aggregate (all, including developing countries).",,
+170,PAK,Pakistan,Islamic Republic of Pakistan,Fiscal year end: June 30; reporting period for national accounts data: FY. The new base year is 2005/06.,South Asia,Lower middle income
+179,PRT,Portugal,Portuguese Republic,"A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate was adopted by the EU Council on January 1, 1999: 1 euro = 200.482 Portuguese escudo. Please note that historical data before 1999 are not actual euros and are not comparable or suitable for aggregation across countries.",Europe & Central Asia,High income: OECD
+181,PSE,West Bank and Gaza,West Bank and Gaza,,Middle East & North Africa,Lower middle income
+188,SAU,Saudi Arabia,Kingdom of Saudi Arabia,,Middle East & North Africa,High income: nonOECD
+205,SWE,Sweden,Kingdom of Sweden,Fiscal year end: June 30; reporting period for national accounts data: CY.,Europe & Central Asia,High income: OECD
+222,TZA,Tanzania,United Republic of Tanzania,,Sub-Saharan Africa,Low income
+225,UMC,Upper middle income,Upper middle income,"Upper middle income group aggregate. Upper-middle-income economies are those in which 2013 GNI per capita was between $4,126 and $12,745.",,
+227,USA,United States,United States of America,Fiscal year end: September 30; reporting period for national accounts data: CY.,North America,High income: OECD
+234,WLD,World,World,World aggregate.,,
